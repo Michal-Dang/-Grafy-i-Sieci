@@ -1,0 +1,36 @@
+C:\Users\mdrag\OneDrive\Pulpit\Grafy\aplikacja\aplikacja\bin\Debug\aplikacja.exe.config
+C:\Users\mdrag\OneDrive\Pulpit\Grafy\aplikacja\aplikacja\bin\Debug\aplikacja.exe
+C:\Users\mdrag\OneDrive\Pulpit\Grafy\aplikacja\aplikacja\bin\Debug\aplikacja.pdb
+C:\Users\mdrag\OneDrive\Pulpit\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.csprojAssemblyReference.cache
+C:\Users\mdrag\OneDrive\Pulpit\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.Form1.resources
+C:\Users\mdrag\OneDrive\Pulpit\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.Properties.Resources.resources
+C:\Users\mdrag\OneDrive\Pulpit\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.csproj.GenerateResource.cache
+C:\Users\mdrag\OneDrive\Pulpit\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\mdrag\OneDrive\Pulpit\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.exe
+C:\Users\mdrag\OneDrive\Pulpit\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.pdb
+C:\Users\mdrag\OneDrive\Pulpit\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.Form2.resources
+C:\Users\mdrag\OneDrive\Pulpit\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.Form3.resources
+C:\Users\mdrag\OneDrive\Pulpit\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.Form0.resources
+C:\Users\mdrag\OneDrive\Pulpit\Sem4\Grafy\aplikacja\aplikacja\bin\Debug\aplikacja.exe.config
+C:\Users\mdrag\OneDrive\Pulpit\Sem4\Grafy\aplikacja\aplikacja\bin\Debug\aplikacja.exe
+C:\Users\mdrag\OneDrive\Pulpit\Sem4\Grafy\aplikacja\aplikacja\bin\Debug\aplikacja.pdb
+C:\Users\mdrag\OneDrive\Pulpit\Sem4\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.csprojAssemblyReference.cache
+C:\Users\mdrag\OneDrive\Pulpit\Sem4\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.Form0.resources
+C:\Users\mdrag\OneDrive\Pulpit\Sem4\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.Form1.resources
+C:\Users\mdrag\OneDrive\Pulpit\Sem4\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.Form2.resources
+C:\Users\mdrag\OneDrive\Pulpit\Sem4\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.Form3.resources
+C:\Users\mdrag\OneDrive\Pulpit\Sem4\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.Properties.Resources.resources
+C:\Users\mdrag\OneDrive\Pulpit\Sem4\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.csproj.GenerateResource.cache
+C:\Users\mdrag\OneDrive\Pulpit\Sem4\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\mdrag\OneDrive\Pulpit\Sem4\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.exe
+C:\Users\mdrag\OneDrive\Pulpit\Sem4\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.pdb
+C:\Users\mdrag\OneDrive\Pulpit\studia inf\SGGW\Sem4\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.csprojAssemblyReference.cache
+C:\Users\mdrag\OneDrive\Pulpit\studia inf\SGGW\Sem4\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.Form0.resources
+C:\Users\mdrag\OneDrive\Pulpit\studia inf\SGGW\Sem4\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.Form1.resources
+C:\Users\mdrag\OneDrive\Pulpit\studia inf\SGGW\Sem4\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.Form2.resources
+C:\Users\mdrag\OneDrive\Pulpit\studia inf\SGGW\Sem4\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.Form3.resources
+C:\Users\mdrag\OneDrive\Pulpit\studia inf\SGGW\Sem4\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.Properties.Resources.resources
+C:\Users\mdrag\OneDrive\Pulpit\studia inf\SGGW\Sem4\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.csproj.GenerateResource.cache
+C:\Users\mdrag\OneDrive\Pulpit\studia inf\SGGW\Sem4\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\mdrag\OneDrive\Pulpit\studia inf\SGGW\Sem4\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.exe
+C:\Users\mdrag\OneDrive\Pulpit\studia inf\SGGW\Sem4\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.pdb
