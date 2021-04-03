@@ -10,13 +10,13 @@ using System.Windows.Forms;
 
 namespace aplikacja
 {
-    public partial class Form3 : Form
+    public partial class Wynik : Form
     {
-        Form1 f1;
-        Form2 f2;
+        Graf f1;
+        Połączenia f2;
         public int[,] M;
         Stack<int> stos = new Stack<int>();
-        public Form3(Form1 f1, Form2 f2)
+        public Wynik(Graf f1, Połączenia f2)
         {
             InitializeComponent();
             this.f1 = f1;
@@ -280,7 +280,7 @@ namespace aplikacja
 
         private void ButtonMenu_Click(object sender, EventArgs e) 
         {
-            Form0 f0=new Form0();
+            Menu f0=new Menu();
             this.Close();
             f0.Show();
         }

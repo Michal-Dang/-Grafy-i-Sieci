@@ -10,20 +10,20 @@ using System.Windows.Forms;
 
 namespace aplikacja
 {
-    public partial class Form2 : Form
+    public partial class Połączenia : Form
     {
-        Form1 f1;
-        Form0 f0;
+        Graf f1;
+        Menu f0;
         public  int v1, v2;
         Stack<int> s1=new Stack<int>();
         public int[,] m;
-        public Form2(Form1 f1, Form0 f0)
+        public Połączenia(Graf f1, Menu f0)
         {
             InitializeComponent();
             this.f1 = f1;
             this.f0 = f0;
         }
-        public void Zerowanie(int a, int b,int[,] m, Form0 f0) //usuwanie połaczenia poprzedniego
+        public void Zerowanie(int a, int b,int[,] m, Menu f0) //usuwanie połaczenia poprzedniego
         {
                     if (f0.Skierowany == true)
                     {
@@ -89,7 +89,7 @@ namespace aplikacja
                 }
             }
         }
-        public static string Wyswietl(string text, int[,] m, Form0 f0)
+        public static string Wyswietl(string text, int[,] m, Menu f0)
         {
             int ElementyWiersz = 0;
 
@@ -146,7 +146,7 @@ namespace aplikacja
         {
             labelPolaczen.Hide();
             m = new int[Convert.ToInt32(f1.wierzcholki.Text), Convert.ToInt32(f1.wierzcholki.Text)];
-            Form3 f3 = new Form3(f1, this);
+            Wynik f3 = new Wynik(f1, this);
             if (Convert.ToInt32(f1.krawedzie.Text) == 0)
             {
                 this.Close();
@@ -161,7 +161,7 @@ namespace aplikacja
 
     private void Dodaj_Click(object sender, EventArgs e)
         {          
-            Form3 f3 = new Form3(f1,this);
+            Wynik f3 = new Wynik(f1,this);
             bool sprawdz = true; 
             int liczba = Convert.ToInt32(f1.wierzcholki.Text); 
             liczba--;

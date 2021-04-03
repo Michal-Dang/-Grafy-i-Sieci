@@ -11,26 +11,25 @@ using System.Windows.Forms;
 namespace aplikacja
 {
 
-    public partial class Form0 : Form
+    public partial class Menu : Form
     {
         public bool Skierowany;
-        public Form0()
+        public Menu()
         {
             InitializeComponent();
         }
 
         private void Form0_Load(object sender, EventArgs e)
         {
+            
             tytul.Parent = tlo;
             tytul.BackColor = Color.Transparent;
-            wykonawcy.Parent = tlo;
-            wykonawcy.BackColor = Color.Transparent;
         }
 
         private void Button1_Click(object sender, EventArgs e)
         {
             Skierowany = true;
-            Form1 form1 = new Form1(this);
+            Graf form1 = new Graf(this);
             this.Hide();
             form1.Show();
         }
@@ -38,7 +37,7 @@ namespace aplikacja
         private void ButtonNieskierowany_Click(object sender, EventArgs e)
         {
             Skierowany = false;
-            Form1 form1 = new Form1(this);
+            Graf form1 = new Graf(this);
             this.Hide();
             form1.Show();
         }
@@ -46,6 +45,11 @@ namespace aplikacja
         private void ButtonZamknij_Click(object sender, EventArgs e)
         {
             Environment.Exit(0);
+        }
+
+        private void tlo_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

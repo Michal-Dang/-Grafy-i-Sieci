@@ -10,11 +10,11 @@ using System.Windows.Forms;
 
 namespace aplikacja
 {
-    public partial class Form1 : Form
+    public partial class Graf : Form
     {
-        Form0 f0;
+        Menu f0;
         List<int> placzenia = new List<int>();
-        public Form1(Form0 f0)
+        public Graf(Menu f0)
         {
             InitializeComponent();
             this.f0 = f0;
@@ -63,7 +63,7 @@ namespace aplikacja
             else
             {
 
-                Form2 f2 = new Form2(this,f0);
+                Połączenia f2 = new Połączenia(this,f0);
                 this.Hide();
                 f2.Show();
             }

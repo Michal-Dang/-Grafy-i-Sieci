@@ -1,6 +1,6 @@
 ﻿namespace aplikacja
 {
-    partial class Form1
+    partial class Graf
     {
         /// <summary>
         /// Wymagana zmienna projektanta.

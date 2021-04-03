@@ -34,3 +34,16 @@ C:\Users\mdrag\OneDrive\Pulpit\studia inf\SGGW\Sem4\Grafy\aplikacja\aplikacja\ob
 C:\Users\mdrag\OneDrive\Pulpit\studia inf\SGGW\Sem4\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.csproj.CoreCompileInputs.cache
 C:\Users\mdrag\OneDrive\Pulpit\studia inf\SGGW\Sem4\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.exe
 C:\Users\mdrag\OneDrive\Pulpit\studia inf\SGGW\Sem4\Grafy\aplikacja\aplikacja\obj\Debug\aplikacja.pdb
+C:\Users\mdrag\source\repos\Michal-Dang\-Grafy-i-Sieci\aplikacja\obj\Debug\aplikacja.csprojAssemblyReference.cache
+C:\Users\mdrag\source\repos\Michal-Dang\-Grafy-i-Sieci\aplikacja\obj\Debug\aplikacja.Menu.resources
+C:\Users\mdrag\source\repos\Michal-Dang\-Grafy-i-Sieci\aplikacja\obj\Debug\aplikacja.Graf.resources
+C:\Users\mdrag\source\repos\Michal-Dang\-Grafy-i-Sieci\aplikacja\obj\Debug\aplikacja.Połączenia.resources
+C:\Users\mdrag\source\repos\Michal-Dang\-Grafy-i-Sieci\aplikacja\obj\Debug\aplikacja.Wynik.resources
+C:\Users\mdrag\source\repos\Michal-Dang\-Grafy-i-Sieci\aplikacja\obj\Debug\aplikacja.Properties.Resources.resources
+C:\Users\mdrag\source\repos\Michal-Dang\-Grafy-i-Sieci\aplikacja\obj\Debug\aplikacja.csproj.GenerateResource.cache
+C:\Users\mdrag\source\repos\Michal-Dang\-Grafy-i-Sieci\aplikacja\obj\Debug\aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\mdrag\source\repos\Michal-Dang\-Grafy-i-Sieci\aplikacja\obj\Debug\aplikacja.exe
+C:\Users\mdrag\source\repos\Michal-Dang\-Grafy-i-Sieci\aplikacja\obj\Debug\aplikacja.pdb
+C:\Users\mdrag\source\repos\Michal-Dang\-Grafy-i-Sieci\aplikacja\bin\Debug\aplikacja.exe.config
+C:\Users\mdrag\source\repos\Michal-Dang\-Grafy-i-Sieci\aplikacja\bin\Debug\aplikacja.exe
+C:\Users\mdrag\source\repos\Michal-Dang\-Grafy-i-Sieci\aplikacja\bin\Debug\aplikacja.pdb

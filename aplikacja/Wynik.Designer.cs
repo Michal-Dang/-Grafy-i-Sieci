@@ -1,6 +1,6 @@
 ﻿namespace aplikacja
 {
-    partial class Form3
+    partial class Wynik
     {
         /// <summary>
         /// Required designer variable.

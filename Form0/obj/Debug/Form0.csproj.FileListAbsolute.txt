@@ -1,9 +1,0 @@
-C:\Users\mdrag\OneDrive\Pulpit\Grafy\aplikacja\Form0\bin\Debug\Form0.exe.config
-C:\Users\mdrag\OneDrive\Pulpit\Grafy\aplikacja\Form0\bin\Debug\Form0.exe
-C:\Users\mdrag\OneDrive\Pulpit\Grafy\aplikacja\Form0\bin\Debug\Form0.pdb
-C:\Users\mdrag\OneDrive\Pulpit\Grafy\aplikacja\Form0\obj\Debug\Form0.csprojAssemblyReference.cache
-C:\Users\mdrag\OneDrive\Pulpit\Grafy\aplikacja\Form0\obj\Debug\Form0.Properties.Resources.resources
-C:\Users\mdrag\OneDrive\Pulpit\Grafy\aplikacja\Form0\obj\Debug\Form0.csproj.GenerateResource.cache
-C:\Users\mdrag\OneDrive\Pulpit\Grafy\aplikacja\Form0\obj\Debug\Form0.csproj.CoreCompileInputs.cache
-C:\Users\mdrag\OneDrive\Pulpit\Grafy\aplikacja\Form0\obj\Debug\Form0.exe
-C:\Users\mdrag\OneDrive\Pulpit\Grafy\aplikacja\Form0\obj\Debug\Form0.pdb
